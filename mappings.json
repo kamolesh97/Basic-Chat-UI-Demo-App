@@ -1,0 +1,8 @@
+{
+    "@src": "./src",
+    "@assets": "./src/assets",
+    "@screens": "./src/screens",
+    "@common": "./src/common",
+    "@components": "./src/components",
+    "@elements": "./src/elements"
+}
